@@ -1,7 +1,7 @@
 import sqlite3
 import os
 
-SECRET_KEY = "12345-hardcoded-secret-key"
+SECRET_KEY = "9Ds7mnA0wa8v3NmSI47dmA=="
 
 def insecure_sql_query(user_input):
     connection = sqlite3.connect("test.db")
