@@ -3,3 +3,6 @@
 *.pdf
 pnpm-lock.yaml
 node_modules
+
+input.css
+tailwind.config.js
