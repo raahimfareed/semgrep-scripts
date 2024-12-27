@@ -1,1 +1,5 @@
 *.json
+*.html
+*.pdf
+pnpm-lock.yaml
+node_modules
